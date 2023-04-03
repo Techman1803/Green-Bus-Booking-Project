@@ -34,14 +34,11 @@ BusBooking Project By using Java in NetBeans Where Admin Can Add the Seats into 
 Fully Functional Bus Booking Project for Green Bus System. The technologies used in this project are Core Java, Java Frame, MYSQL DataBase. There are a few important packages in the project are, Grean Bus System Package is first page from which the User can Book the Bus or Admin can Add the Seats, Seats its another Panel When we Select Add seat Option from the Green Bus System by entering the date and Bus no we can add the Seats of Bus for the entered Date by selecting the Bus Booking Package from where we can See the available Seats and Booked seats from JTable1 and we can Bokk the Seat by selecting the unbooked seat from the Table and by entering the Name and Mobile no on the Jpanel, By Loading JDBC Driver and Establishing Connectivity with MySQL DataBase we Can Store the Data of Users and Availability of the Bus of respective Date and Bus No. SkillLync helped me by providing the wire-frames for all relevant feature pages
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+When run the the Code on your System First the One Panel will Open There will be 2 options one is for Booking the Bus and another one is for adding the seats into Bus Booking System By clicking on Book Bus Button you can Book the bus by clicking on available Seats or By clicking on Add Seat Button you can Add Seats into Bus Booking System by ENtering the Bus no and By selecting the Date.
 
 ### Prerequisites
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
+You Need to install NeBeans and MYSql Data Base and you need download some of the Jar files
+i.e, JCalendar and mysql connector Jar file
 
 ### Installing
 A step by step series of examples that tell you how to get a development env running.
