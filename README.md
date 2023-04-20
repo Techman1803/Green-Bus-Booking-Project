@@ -68,7 +68,7 @@ First Extract the file from GitHub and import it into Apache NetBeans and you ca
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@SkillLymc](https://github.com/kylelobo) - FSD
-- 
+
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Skill-Lync
 - Tutor Channel
