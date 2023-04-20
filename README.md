@@ -59,18 +59,6 @@ Then Download the MYSQL Connectors Jar file and JCalendar Jar file from Same MyS
 ## 🔧 Running the tests <a name = "tests"></a>
 Explain how to run the automated tests for this system.
 
-### Break down into end to end tests
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> ccb3ef98e38119bc8d4d95dd9750ea018ced0479
 ## 🎈 Usage <a name="usage"></a>
 Add notes about how to use the system.
 
