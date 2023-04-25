@@ -31,6 +31,7 @@ BusBooking Project By using Java in NetBeans Where Admin Can Add the Seats into 
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
 - [Usage](#usage)
+- [Built Using](#built_using)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
@@ -73,6 +74,10 @@ The main Use of this BusBooking System is that Bus Contractor can add the Seats 
 ## 🚀 Deployment <a name = "deployment"></a>
 First Extract the file from GitHub and import it into Apache NetBeans and you can run the program
 
+## ⛏️ Built Using <a name = "built_using"></a>
+- [MySQL](https://www.mongodb.com/) - Database
+- [JAVA](https://expressjs.com/) - JFrame
+- [NetBeans](https://vuejs.org/) - IDE
 
 ## ✍️ Authors <a name = "authors"></a>
 - [Vignesh G](https://github.com/kylelobo) - FSD
